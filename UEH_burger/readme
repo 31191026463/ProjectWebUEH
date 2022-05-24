@@ -1,5 +1,23 @@
-Để chạy thử:
+Đồ án cuối kỳ môn học Phát triển ứng dụng Web
+GVHD:	TS. Đặng Ngọc Hoàng Thành
 
-Thư mục UEH_burger phải nằm trong thư mục htdocs của xampp
--> địa chỉ: http://localhost/UEH_burger
+1. Mô tả: Website nhà hàng thức ăn nhanh Hamburger
 
+2. Danh sách thành viên:
+	- 31191026463: Nguyễn Xuân Lâm
+	- 31191026753: Nguyễn Thị Thanh Hà
+	- 31191026774: Trần Thanh Hoàng
+	- 31191024249: Đặng Đông Vĩ
+
+3. Cách chạy demo:
+	- Bước 1: Tải file rar đồ án ProjectWebUEH.
+	- Bước 2: Giải nén và mở file rar ProjectWebUEH.
+	- Bước 3: Copy thư mục 'UEH_burger' vào trong thư mục 'htdocs' của XAMPP.
+	- Bước 4: Mở Visual Studio và thêm thư mục UEH_burger vào phần mềm.
+	- Bước 5: Thay đổi địa chỉ trong mvc/config/config.php và ueh_burger.sql cho phù hợp với cài đặt của máy hiện tại.
+	- Bước 6: Khởi động XAMPP và chạy Apache và MySQL, khởi chạy Admin của MySQL. Trong đó tạo một database mới có tên ueh_burger, import database ueh_burger.sql có trong file rar đã giải nén vào database vừa mới tạo.
+	- Bước 7: Mở trình duyệt và truy cập https://localhost/UEH_burger
+
+	- Tài khoản:
+		+ admin: admin, mật khẩu: admin
+		+ user: lam123, mật khẩu: lam123
