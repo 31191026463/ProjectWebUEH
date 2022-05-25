@@ -7,7 +7,7 @@
                         <div class="block">
                             <div class="block-content">
                                 <p class="logo-footer">
-                                    <img src="<?= STATIC_URL ?>img/home/logo-mobile.png" alt="Noi that gia vuong logo">
+                                    <img src="<?= STATIC_URL ?>img/home/logo-mobile.png" alt="UEH Burger logo">
                                 </p>
                                 <p class="content-logo">UEH Burger là chuỗi cửa hàng thức ăn nhanh nổi tiếng thế giới với công thức Hamburger đột phá và 100% nguyên liệu thịt bò nhập từ Úc.
                                 </p>
